@@ -4,4 +4,17 @@
   width: 100vw;
   z-index: 10;
   background: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  ul {
+    display: flex;
+    gap: 5rem;
+    list-style: none;
+    li {
+      color: #fff;
+      font-size: 0.9rem;
+    }
+  }
 }

@@ -11,7 +11,11 @@ gsap.registerPlugin(useGSAP);
 export default function Header() {
     return (
         <header className={styles.header}>
-
+            <ul>
+                <li>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
         </header>
     )
 }
