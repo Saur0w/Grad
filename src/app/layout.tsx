@@ -4,7 +4,7 @@ import React from "react";
 import Header from "@/components/Header";
 
 export const metadata: Metadata = {
-  title: "Create Next App",
+  title: "Gradient",
   description: "~@sauroww(X) @saur0w(GitHub)",
 };
 
