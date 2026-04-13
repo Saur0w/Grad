@@ -34,7 +34,7 @@ export default function Landing() {
         <section className={styles.landing} ref={landingRef}>
             <Canvas />
             <div className={styles.para} ref={textRef}>
-                <p>NASA&#39;s Artemis II marks a bold step in humanity&#39;s return to deep space exploration. As the first crewed mission of the Artemis program, it will send astronauts around the Moon, paving the way for future lunar landings. This mission reflects how far space exploration has come since the days of Apollo 11, combining advanced technology with renewed ambition. Beyond its technical goals, Artemis II symbolizes a new era where humans prepare not just to visit the Moon again, but to stay, learn, and eventually venture even farther into the vast universe.</p>
+                <p>Fragment shaders run once per pixel, every frame, with no memory of what came before. No state. No history. Just a coordinate and a question, &#34;what colour should I be right now?&#34; I find that beautiful. This entire background is that loop, running 60 times a second.</p>
             </div>
         </section>
     );
